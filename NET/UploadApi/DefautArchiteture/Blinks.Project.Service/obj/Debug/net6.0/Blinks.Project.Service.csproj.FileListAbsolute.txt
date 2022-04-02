@@ -1,0 +1,17 @@
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\bin\Debug\net6.0\Blinks.Project.Service.deps.json
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\bin\Debug\net6.0\Blinks.Project.Service.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\bin\Debug\net6.0\Blinks.Project.Service.pdb
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\obj\Debug\net6.0\Blinks.Project.Service.csproj.AssemblyReference.cache
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\obj\Debug\net6.0\Blinks.Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\obj\Debug\net6.0\Blinks.Project.Service.AssemblyInfoInputs.cache
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\obj\Debug\net6.0\Blinks.Project.Service.AssemblyInfo.cs
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\obj\Debug\net6.0\Blinks.Project.Service.csproj.CoreCompileInputs.cache
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\obj\Debug\net6.0\Blinks.Project.Service.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\obj\Debug\net6.0\refint\Blinks.Project.Service.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\obj\Debug\net6.0\Blinks.Project.Service.pdb
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\obj\Debug\net6.0\ref\Blinks.Project.Service.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\bin\Debug\net6.0\Blinks.Project.Domain.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\bin\Debug\net6.0\Blinks.Project.Domain.pdb
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\obj\Debug\net6.0\Blinks.Project.Service.csproj.CopyComplete
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\bin\Debug\net6.0\Blinks.Project.Data.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Service\bin\Debug\net6.0\Blinks.Project.Data.pdb

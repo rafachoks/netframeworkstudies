@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44d9b35f-9b82-4d6d-9a44-9d5fa4b08be1": {
+      "ProjectGuid": "44d9b35f-9b82-4d6d-9a44-9d5fa4b08be1",
+      "DisplayName": "Fluent Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

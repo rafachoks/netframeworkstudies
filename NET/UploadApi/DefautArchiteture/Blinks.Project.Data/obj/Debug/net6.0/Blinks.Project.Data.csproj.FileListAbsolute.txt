@@ -1,0 +1,17 @@
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\bin\Debug\net6.0\Blinks.Project.Data.deps.json
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\bin\Debug\net6.0\Blinks.Project.Data.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\bin\Debug\net6.0\Blinks.Project.Data.pdb
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\obj\Debug\net6.0\Blinks.Project.Data.csproj.AssemblyReference.cache
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\obj\Debug\net6.0\Blinks.Project.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\obj\Debug\net6.0\Blinks.Project.Data.AssemblyInfoInputs.cache
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\obj\Debug\net6.0\Blinks.Project.Data.AssemblyInfo.cs
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\obj\Debug\net6.0\Blinks.Project.Data.csproj.CoreCompileInputs.cache
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\obj\Debug\net6.0\Blinks.Project.Data.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\obj\Debug\net6.0\refint\Blinks.Project.Data.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\obj\Debug\net6.0\Blinks.Project.Data.pdb
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\obj\Debug\net6.0\ref\Blinks.Project.Data.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\bin\Debug\net6.0\Blinks.Project.Domain.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\bin\Debug\net6.0\Blinks.Project.Domain.pdb
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\obj\Debug\net6.0\Blinks.Project.Data.csproj.CopyComplete
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\bin\Debug\net6.0\Blinks.Project.Data.runtimeconfig.json
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Data\obj\Debug\net6.0\Blinks.Project.Data.genruntimeconfig.cache

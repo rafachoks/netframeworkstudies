@@ -1,0 +1,7 @@
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
