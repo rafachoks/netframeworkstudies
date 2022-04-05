@@ -1,10 +1,5 @@
 ﻿using Blinks.Project.Data.Context;
-using Blinks.Project.Domain.User;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Blinks.Project.Domain;
 
 namespace Blinks.Project.Data.Repository
 {

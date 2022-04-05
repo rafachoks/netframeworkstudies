@@ -1,6 +1,5 @@
 ﻿using Blinks.Project.Data.Mapping;
-using Blinks.Project.Domain.Media.Entities;
-using Blinks.Project.Domain.User;
+using Blinks.Project.Domain;
 using Microsoft.EntityFrameworkCore;
 
 namespace Blinks.Project.Data.Context
@@ -14,10 +13,10 @@ namespace Blinks.Project.Data.Context
         public DbSet<User> Users { get; set; }
         public DbSet<Midia> Midias { get; set; }
 
-        protected  override void OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<User>(new UserMap().Configure);
-            modelBuilder.Entity<Midia>();
+            modelBuilder.Entity<Midia>(new MidiaMap().Configure);
         }
     }
 }

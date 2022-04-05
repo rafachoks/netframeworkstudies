@@ -13,17 +13,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - CrossCutting", "6 - CrossCutting", "{D631CF3E-2312-48FB-8846-1B0FEAF765D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blinks.Project.Domain", "Blinks.Project.Domain\Blinks.Project.Domain.csproj", "{5D3029C8-19F5-4D92-BCBD-22FCAADAEA31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blinks.Project.Domain", "Blinks.Project.Domain\Blinks.Project.Domain.csproj", "{5D3029C8-19F5-4D92-BCBD-22FCAADAEA31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blinks.Project.Service", "Blinks.Project.Service\Blinks.Project.Service.csproj", "{F9329C6E-88D8-4771-900F-603610FA3103}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blinks.Project.Service", "Blinks.Project.Service\Blinks.Project.Service.csproj", "{F9329C6E-88D8-4771-900F-603610FA3103}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blinks.Project.Infra", "Blinks.Project.Infra\Blinks.Project.Infra.csproj", "{F411D205-51E0-45EA-ACCA-57B76FE557B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blinks.Project.Infra", "Blinks.Project.Infra\Blinks.Project.Infra.csproj", "{F411D205-51E0-45EA-ACCA-57B76FE557B8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Data", "5 - Data", "{97EB09C1-FB77-4261-98CC-BA109C45A540}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blinks.Project.Data", "Blinks.Project.Data\Blinks.Project.Data.csproj", "{A118C27D-BAA8-49AD-97F3-7723C5652841}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blinks.Project.Data", "Blinks.Project.Data\Blinks.Project.Data.csproj", "{A118C27D-BAA8-49AD-97F3-7723C5652841}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blinks.Project.CrossCutting", "Blinks.Project.CrossCutting\Blinks.Project.CrossCutting.csproj", "{7E3A2AD8-002F-4F26-A756-7E574F9CF83D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blinks.Project.CrossCutting", "Blinks.Project.CrossCutting\Blinks.Project.CrossCutting.csproj", "{7E3A2AD8-002F-4F26-A756-7E574F9CF83D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{3665E816-505E-4D07-9307-0B3DCE920AC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{ED3DB752-2A83-4BF5-B9AE-147FE053B102}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,10 @@ Global
 		{7E3A2AD8-002F-4F26-A756-7E574F9CF83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E3A2AD8-002F-4F26-A756-7E574F9CF83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E3A2AD8-002F-4F26-A756-7E574F9CF83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3DB752-2A83-4BF5-B9AE-147FE053B102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3DB752-2A83-4BF5-B9AE-147FE053B102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3DB752-2A83-4BF5-B9AE-147FE053B102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3DB752-2A83-4BF5-B9AE-147FE053B102}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -61,6 +69,7 @@ Global
 		{F411D205-51E0-45EA-ACCA-57B76FE557B8} = {4C02212A-B41E-4D1B-9044-DD612CC562C0}
 		{A118C27D-BAA8-49AD-97F3-7723C5652841} = {97EB09C1-FB77-4261-98CC-BA109C45A540}
 		{7E3A2AD8-002F-4F26-A756-7E574F9CF83D} = {D631CF3E-2312-48FB-8846-1B0FEAF765D8}
+		{ED3DB752-2A83-4BF5-B9AE-147FE053B102} = {3665E816-505E-4D07-9307-0B3DCE920AC6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0E9FC362-77B6-41D9-A2EB-A20C3063130A}
