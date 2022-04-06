@@ -6512,6 +6512,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Blinks.Project.CrossCutting >= 1.0.0",
+      "Blinks.Project.Data >= 1.0.0",
       "Blinks.Project.Domain >= 1.0.0",
       "Blinks.Project.Infra >= 1.0.0",
       "Blinks.Project.Service >= 1.0.0",
@@ -6547,6 +6548,9 @@
           "projectReferences": {
             "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.CrossCutting\\Blinks.Project.CrossCutting.csproj": {
               "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.CrossCutting\\Blinks.Project.CrossCutting.csproj"
+            },
+            "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj": {
+              "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj"
             },
             "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj": {
               "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj"

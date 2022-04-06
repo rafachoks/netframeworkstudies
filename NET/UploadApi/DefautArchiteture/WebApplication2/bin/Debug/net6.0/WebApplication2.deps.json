@@ -9,6 +9,7 @@
       "WebApplication2/1.0.0": {
         "dependencies": {
           "Blinks.Project.CrossCutting": "1.0.0",
+          "Blinks.Project.Data": "1.0.0",
           "Blinks.Project.Domain": "1.0.0",
           "Blinks.Project.Infra": "1.0.0",
           "Blinks.Project.Service": "1.0.0",

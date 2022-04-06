@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Blinks.Project.Data.Context
 {
-    internal class SqlContext : DbContext
+    public class SqlContext : DbContext
     {
         public SqlContext(DbContextOptions options) : base(options)
         {

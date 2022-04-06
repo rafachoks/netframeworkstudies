@@ -34,8 +34,7 @@ namespace Blinks.Project.Data.Mapping
 
             builder.Property(x => x.IsActive)
                 .HasColumnName("FL_ACTIVE")
-                .HasColumnType("bit")
-                .HasDefaultValue(DateTime.MinValue);
+                .HasColumnType("bit");
         }
     }
 }

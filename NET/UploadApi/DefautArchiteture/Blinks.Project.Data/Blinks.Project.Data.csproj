@@ -23,4 +23,8 @@
     <ProjectReference Include="..\Blinks.Project.Domain\Blinks.Project.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

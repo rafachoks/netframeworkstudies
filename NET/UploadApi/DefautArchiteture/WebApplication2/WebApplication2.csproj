@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Blinks.Project.CrossCutting\Blinks.Project.CrossCutting.csproj" />
+    <ProjectReference Include="..\Blinks.Project.Data\Blinks.Project.Data.csproj" />
     <ProjectReference Include="..\Blinks.Project.Domain\Blinks.Project.Domain.csproj" />
     <ProjectReference Include="..\Blinks.Project.Infra\Blinks.Project.Infra.csproj" />
     <ProjectReference Include="..\Blinks.Project.Service\Blinks.Project.Service.csproj" />

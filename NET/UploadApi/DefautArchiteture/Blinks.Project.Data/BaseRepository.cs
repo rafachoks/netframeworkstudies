@@ -3,7 +3,7 @@ using Blinks.Project.Data.Context;
 
 namespace Blinks.Project.Data
 {
-    internal class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : BaseEntity
+    public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : BaseEntity
     {
         protected readonly SqlContext _sqlContext;
 

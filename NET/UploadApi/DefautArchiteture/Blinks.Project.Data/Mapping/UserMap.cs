@@ -14,7 +14,7 @@ namespace Blinks.Project.Data.Mapping
             builder.Property(x => x.Name)
                 .IsRequired()
                 .HasColumnName("NM_USER")
-                .HasColumnType("varchar(250");
+                .HasColumnType("varchar(250)");
 
             builder.Property(x => x.Email)
                 .IsRequired()
@@ -33,9 +33,8 @@ namespace Blinks.Project.Data.Mapping
                 .HasDefaultValue(new DateTime());
 
             builder.Property(x => x.IsActive)
-                .HasColumnType("bit")
                 .HasColumnName("ST_ACTIVE")
-                .HasDefaultValue(false);
+                .HasColumnType("bit");
         }
     }
 }
