@@ -3,7 +3,7 @@ using FluentValidation;
 
 namespace Blinks.Project.Service.Validators
 {
-    internal class MidiaValidator : AbstractValidator<Midia>
+    public class MidiaValidator : AbstractValidator<Midia>
     {
         public MidiaValidator()
         {

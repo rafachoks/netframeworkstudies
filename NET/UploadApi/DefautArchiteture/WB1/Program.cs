@@ -1,7 +1,12 @@
 using Blinks.Project.Data;
 using Blinks.Project.Data.Context;
 using Blinks.Project.Data.Repository;
+using Blinks.Project.Domain;
+using Blinks.Project.Service;
+using Blinks.Project.Service.Services;
+using Blinks.Project.Service.Validators;
 using Microsoft.EntityFrameworkCore;
+using WB1.Controllers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,10 +18,14 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<SqlContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("connstring")));
-builder.Services.AddScoped<SqlContext, SqlContext>();
 
-builder.Services.AddTransient<UserRepository, UserRepository>();
-builder.Services.AddTransient<MidiaRepository, MidiaRepository>();
+builder.Services.AddScoped<SqlContext, SqlContext>();
+builder.Services.AddSingleton<User>();
+builder.Services.AddSingleton<Midia>();
+
+builder.Services.AddTransient<IBaseService<User>, UserService>();
+
+builder.Services.AddTransient<IBaseRepository<User>, UserRepository>();
 
 var app = builder.Build();
 

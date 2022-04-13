@@ -35,6 +35,12 @@ namespace Blinks.Project.Data.Mapping
             builder.Property(x => x.IsActive)
                 .HasColumnName("ST_ACTIVE")
                 .HasColumnType("bit");
+
+            builder.Property(x => x.Id)
+                .HasColumnName("NR_AGE")
+                .HasColumnType("Int")
+                .IsRequired()
+                .HasDefaultValue(0);
         }
     }
 }

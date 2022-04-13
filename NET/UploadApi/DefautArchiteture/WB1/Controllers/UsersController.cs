@@ -10,7 +10,7 @@ namespace WB1.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
-        private IBaseService<User> _baseUserService;
+        private readonly IBaseService<User> _baseUserService;
 
         public UsersController(IBaseService<User> baseUserService)
         {
@@ -71,7 +71,8 @@ namespace WB1.Controllers
         /// </summary>
         /// <returns></returns>
         [HttpGet]
-        public IActionResult Get()
+        [Route("user/getall")]
+        public IActionResult GetAllUser()
         {
             return Execute(() => _baseUserService.GetAll());
         }

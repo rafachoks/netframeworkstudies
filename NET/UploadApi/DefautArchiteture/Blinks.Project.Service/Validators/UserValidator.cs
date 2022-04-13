@@ -16,6 +16,12 @@ namespace Blinks.Project.Service.Validators
            .NotEmpty().WithMessage("Informe um endereço de e-mail para o usuário, este campo não pode ser vazio")
            .NotNull().WithMessage("Informe um endereço de e-mail para o usuário, este campo não pode ser vazio")
            .WithSeverity(Severity.Error);
+
+            RuleFor(x => x.Age)
+            .NotEmpty()
+            .WithName("Erro Idade")
+            .WithMessage("A partir do dia 15 de Maio este projeto não ira usar este objeto")
+            .WithSeverity(Severity.Info);
         }
     }
 }
