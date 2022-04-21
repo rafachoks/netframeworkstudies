@@ -10,3 +10,15 @@ G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutti
 G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutting\obj\Debug\net6.0\refint\Blinks.Project.CrossCutting.dll
 G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutting\obj\Debug\net6.0\Blinks.Project.CrossCutting.pdb
 G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutting\obj\Debug\net6.0\ref\Blinks.Project.CrossCutting.dll
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutting\bin\Debug\net6.0\Blinks.Project.CrossCutting.deps.json
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutting\bin\Debug\net6.0\Blinks.Project.CrossCutting.dll
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutting\bin\Debug\net6.0\Blinks.Project.CrossCutting.pdb
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutting\obj\Debug\net6.0\Blinks.Project.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutting\obj\Debug\net6.0\Blinks.Project.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutting\obj\Debug\net6.0\Blinks.Project.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutting\obj\Debug\net6.0\Blinks.Project.CrossCutting.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutting\obj\Debug\net6.0\Blinks.Project.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutting\obj\Debug\net6.0\Blinks.Project.CrossCutting.dll
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutting\obj\Debug\net6.0\refint\Blinks.Project.CrossCutting.dll
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutting\obj\Debug\net6.0\Blinks.Project.CrossCutting.pdb
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.CrossCutting\obj\Debug\net6.0\ref\Blinks.Project.CrossCutting.dll

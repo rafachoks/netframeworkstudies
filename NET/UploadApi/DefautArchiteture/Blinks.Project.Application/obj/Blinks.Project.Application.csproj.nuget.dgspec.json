@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Application\\Blinks.Project.Application.csproj": {}
+    "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Application\\Blinks.Project.Application.csproj": {}
   },
   "projects": {
-    "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Application\\Blinks.Project.Application.csproj": {
+    "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Application\\Blinks.Project.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Application\\Blinks.Project.Application.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Application\\Blinks.Project.Application.csproj",
         "projectName": "Blinks.Project.Application",
-        "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Application\\Blinks.Project.Application.csproj",
+        "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Application\\Blinks.Project.Application.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Application\\obj\\",
+        "outputPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,17 +28,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj": {
-                "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj"
+              "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj": {
+                "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj"
               },
-              "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj": {
-                "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj"
+              "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj": {
+                "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj"
               },
-              "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Infra\\Blinks.Project.Infra.csproj": {
-                "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Infra\\Blinks.Project.Infra.csproj"
+              "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Infra\\Blinks.Project.Infra.csproj": {
+                "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Infra\\Blinks.Project.Infra.csproj"
               },
-              "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Service\\Blinks.Project.Service.csproj": {
-                "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Service\\Blinks.Project.Service.csproj"
+              "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Service\\Blinks.Project.Service.csproj": {
+                "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Service\\Blinks.Project.Service.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj": {
+    "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj",
         "projectName": "Blinks.Project.Data",
-        "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj",
+        "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\obj\\",
+        "outputPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,8 +101,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj": {
-                "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj"
+              "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj": {
+                "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj"
               }
             }
           }
@@ -157,14 +157,14 @@
         }
       }
     },
-    "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj": {
+    "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj",
         "projectName": "Blinks.Project.Domain",
-        "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj",
+        "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\obj\\",
+        "outputPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -211,14 +211,14 @@
         }
       }
     },
-    "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Infra\\Blinks.Project.Infra.csproj": {
+    "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Infra\\Blinks.Project.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Infra\\Blinks.Project.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Infra\\Blinks.Project.Infra.csproj",
         "projectName": "Blinks.Project.Infra",
-        "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Infra\\Blinks.Project.Infra.csproj",
+        "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Infra\\Blinks.Project.Infra.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Infra\\obj\\",
+        "outputPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -235,8 +235,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj": {
-                "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj"
+              "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj": {
+                "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj"
               }
             }
           }
@@ -279,14 +279,14 @@
         }
       }
     },
-    "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Service\\Blinks.Project.Service.csproj": {
+    "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Service\\Blinks.Project.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Service\\Blinks.Project.Service.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Service\\Blinks.Project.Service.csproj",
         "projectName": "Blinks.Project.Service",
-        "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Service\\Blinks.Project.Service.csproj",
+        "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Service\\Blinks.Project.Service.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Service\\obj\\",
+        "outputPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -303,11 +303,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj": {
-                "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj"
+              "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj": {
+                "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj"
               },
-              "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj": {
-                "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj"
+              "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj": {
+                "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj"
               }
             }
           }

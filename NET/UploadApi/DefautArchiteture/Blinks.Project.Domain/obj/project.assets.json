@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj",
       "projectName": "Blinks.Project.Domain",
-      "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj",
+      "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\obj\\",
+      "outputPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",

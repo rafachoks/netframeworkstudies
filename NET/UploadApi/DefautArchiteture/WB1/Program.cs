@@ -1,4 +1,7 @@
 using Blinks.Project.Application.AutoMapper;
+using Blinks.Project.Application.Business;
+using Blinks.Project.Application.Interface;
+using Blinks.Project.Application.Model;
 using Blinks.Project.Data;
 using Blinks.Project.Data.Context;
 using Blinks.Project.Data.Repository;
@@ -19,16 +22,21 @@ builder.Services.AddScoped<SqlContext, SqlContext>();
 #endregion
 
 #region AutoMapper Profiles
+//builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies()); //For root applications
+//builder.Services.AddAutoMapper(typeof(UserProfile)); // For standard applications
+
 builder.Services.AddAutoMapper(typeof(UserProfile));
+
 #endregion
 
 #region Builder Domains
 builder.Services.AddSingleton<User>();
+builder.Services.AddSingleton<UserModel>();
 builder.Services.AddSingleton<Midia>();
 #endregion
 
-#region Builder Services
-builder.Services.AddTransient<IBaseService<User>, UserService>();
+#region Builder Services Application
+builder.Services.AddTransient<IUserBusiness, UserBusiness>();
 #endregion
 
 #region Standard Configuration

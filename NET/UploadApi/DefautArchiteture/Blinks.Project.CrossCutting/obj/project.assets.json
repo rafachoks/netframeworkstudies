@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.CrossCutting\\Blinks.Project.CrossCutting.csproj",
+      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.CrossCutting\\Blinks.Project.CrossCutting.csproj",
       "projectName": "Blinks.Project.CrossCutting",
-      "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.CrossCutting\\Blinks.Project.CrossCutting.csproj",
+      "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.CrossCutting\\Blinks.Project.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.CrossCutting\\obj\\",
+      "outputPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",

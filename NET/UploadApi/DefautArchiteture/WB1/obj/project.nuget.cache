@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/vI8lqv6XWhvkU8wOhuGr4P3sKpdQlnx3ArDSVNMtsJRLEbe4ksqNHj6FLrlBnTHOywoHczckJrXRq1uW3doQA==",
+  "dgSpecHash": "iE+yTpLQinOhWW4SONanb3SuxcJyeVs06SUa1DB6WYYdZu+fbFJgEnlktf1LjUeHWKWzKsy99T7UyrjgCLt8zg==",
   "success": true,
-  "projectFilePath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\WB1\\WB1.csproj",
+  "projectFilePath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\WB1\\WB1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafae\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

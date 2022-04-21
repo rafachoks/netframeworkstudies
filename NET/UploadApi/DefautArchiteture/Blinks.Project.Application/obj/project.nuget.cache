@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "15VGWUiSw5GRa3Od0fALIMPQf2b6g0FOwWJcY28nDYkdhNwBlSz3B1j1nKKh3AZnBDVoS3IlQX/URM216cyffw==",
+  "dgSpecHash": "Y+GWL9QeUnuJr9ntNW/rLrR86wXxtNf20cmbeiqA+lhueINA7puCmltidHqdq7E74660ACG9MgSh1Zve0CbQHw==",
   "success": true,
-  "projectFilePath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Application\\Blinks.Project.Application.csproj",
+  "projectFilePath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Application\\Blinks.Project.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafae\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",

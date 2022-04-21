@@ -1882,11 +1882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj",
+      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj",
       "projectName": "Blinks.Project.Data",
-      "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj",
+      "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\Blinks.Project.Data.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\obj\\",
+      "outputPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1903,8 +1903,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj": {
-              "projectPath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj"
+            "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj": {
+              "projectPath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Domain\\Blinks.Project.Domain.csproj"
             }
           }
         }

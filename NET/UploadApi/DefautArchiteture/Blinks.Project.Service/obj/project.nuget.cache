@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fnrJkPyGxBL8sEe3cTGYYUsZ4DyV7E1tCqyRHsCNNqWUecyNZbaUzdSh5iGZTXpHuGlEXw/zY2Um4Dxedn5kiA==",
+  "dgSpecHash": "0NQfk1VQT7EXZZf4fSwSplc8mW7zXUkMbic14SxkZ9g+wT6nC90iWku1riRFlzfKPcVXt5hw4/x82Bs/WJIK3Q==",
   "success": true,
-  "projectFilePath": "G:\\Projects\\Repository\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Service\\Blinks.Project.Service.csproj",
+  "projectFilePath": "C:\\Users\\rafae\\OneDrive\\Familia\\Documentos\\Projetos\\netframeworkstudies\\NET\\UploadApi\\DefautArchiteture\\Blinks.Project.Service\\Blinks.Project.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafae\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
