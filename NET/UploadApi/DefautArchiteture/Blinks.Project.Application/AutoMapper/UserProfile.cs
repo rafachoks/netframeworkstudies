@@ -18,21 +18,22 @@ namespace Blinks.Project.Application.AutoMapper
                 opt => opt.MapFrom(src => $"{src.Email}")
                 )
                 .ForMember(
-                dest => Convert.ToInt32(dest.Age),
-                opt => opt.MapFrom(src => $"{src.Age}")
+                dest => dest.Age,
+                opt => opt.MapFrom(src => $"{Convert.ToInt32(src.Age)}")
                 )
                 .ForMember(
-                dest => Convert.ToBoolean(dest.IsActive),
-                opt => opt.MapFrom(src => $"{src.IsActive}")
+                dest => dest.IsActive,
+                opt => opt.MapFrom(src => $"{Convert.ToBoolean(src.IsActive)}")
                 )
                 .ForMember(
-                dest => Convert.ToDateTime(dest.CreateTime),
-                opt => opt.MapFrom(src => $"{src.CreateDate}")
+                dest => dest.CreateDate,
+                opt => opt.MapFrom(src => $"{Convert.ToDateTime(src.CreateDate)}")
                 )
                 .ForMember(
-                dest => Convert.ToDateTime(dest.UpdateTime),
-                opt => opt.MapFrom(src => $"{src.UpdateDate}")
-                );
+                dest => dest.UpdateDate,
+                opt => opt.MapFrom(src => $"{Convert.ToDateTime(src.UpdateDate)}")
+                ).ReverseMap()
+                ;
         }
     }
 }

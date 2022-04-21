@@ -4,6 +4,7 @@ using Blinks.Project.Application.Interface;
 using Blinks.Project.Application.Model;
 using Blinks.Project.Data;
 using Blinks.Project.Data.Context;
+using Blinks.Project.Data.Contracts;
 using Blinks.Project.Data.Repository;
 using Blinks.Project.Domain;
 using Blinks.Project.Service;
@@ -36,6 +37,7 @@ builder.Services.AddSingleton<Midia>();
 #endregion
 
 #region Builder Services Application
+builder.Services.AddTransient<IUserRepository, UserRepository>();
 builder.Services.AddTransient<IUserBusiness, UserBusiness>();
 #endregion
 

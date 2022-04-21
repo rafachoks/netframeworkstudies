@@ -11,8 +11,8 @@ namespace Blinks.Project.Domain
         public string Name { get; set; } = null!;
         public string Email { get; set; } = null!;
         public int Age { get; set; }
-        public DateTime CreateTime{ get; set; }
-        public DateTime UpdateTime{ get; set; }
+        public DateTime CreateDate{ get; set; }
+        public DateTime UpdateDate{ get; set; }
         public bool IsActive { get; set; }
     }
 }

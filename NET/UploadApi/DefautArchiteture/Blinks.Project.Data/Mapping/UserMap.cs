@@ -21,13 +21,13 @@ namespace Blinks.Project.Data.Mapping
                 .HasColumnName("DS_EMAIL")
                 .HasColumnType("varchar(100)");
 
-            builder.Property(x => x.CreateTime)
+            builder.Property(x => x.CreateDate)
                 .IsRequired()
                 .HasColumnName("DT_CREATE")
                 .HasColumnType("Datetime")
                 .HasDefaultValue(new DateTime());
 
-            builder.Property(x => x.UpdateTime)
+            builder.Property(x => x.UpdateDate)
                 .HasColumnName("DT_UPDATE")
                 .HasColumnType("Datetime")
                 .HasDefaultValue(new DateTime());
@@ -36,7 +36,7 @@ namespace Blinks.Project.Data.Mapping
                 .HasColumnName("ST_ACTIVE")
                 .HasColumnType("bit");
 
-            builder.Property(x => x.Id)
+            builder.Property(x => x.Age)
                 .HasColumnName("NR_AGE")
                 .HasColumnType("Int")
                 .IsRequired()
