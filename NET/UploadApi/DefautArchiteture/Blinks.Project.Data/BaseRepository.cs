@@ -1,5 +1,6 @@
 ﻿using Blinks.Project.Domain;
 using Blinks.Project.Data.Context;
+using Microsoft.EntityFrameworkCore;
 
 namespace Blinks.Project.Data
 {
@@ -32,7 +33,7 @@ namespace Blinks.Project.Data
 
         public IList<TEntity> GetAll()
         {
-            return _sqlContext.Set<TEntity>().ToList();
+            return _sqlContext.Set<TEntity>().AsNoTracking().ToList();
         }
 
         public void Update(TEntity entity)

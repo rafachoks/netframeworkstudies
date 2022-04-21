@@ -1,4 +1,5 @@
-﻿using Blinks.Project.Domain;
+﻿using Blinks.Project.Application.Model;
+using Blinks.Project.Domain;
 using Blinks.Project.Service;
 using Blinks.Project.Service.Validators;
 using Microsoft.AspNetCore.Http;
@@ -10,24 +11,14 @@ namespace WB1.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
-        private readonly IBaseService<User> _baseUserService;
-
-        public UsersController(IBaseService<User> baseUserService)
-        {
-            _baseUserService = baseUserService;
-        }
-
         /// <summary>
         /// Create a new user within the application
         /// </summary>
         /// <param name="user"></param>
         [HttpPost]
-        public IActionResult Create([FromBody] User user)
+        public IActionResult Create([FromBody] UserModel user)
         {
-            if (user == null)
-                return NotFound();
-
-            return Execute(() => _baseUserService.Add<UserValidator>(user).Id);
+            return Ok();
         }
 
         /// <summary>
@@ -38,11 +29,6 @@ namespace WB1.Controllers
         [HttpPut]
         public IActionResult Update([FromBody] User user)
         {
-            if (user == null)
-                return NotFound();
-
-            _baseUserService.Update<UserValidator>(user);
-
             return Ok();
         }
 
@@ -54,16 +40,7 @@ namespace WB1.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            if (id == 0)
-                return NotFound();
-
-            Execute(() =>
-            {
-                _baseUserService.Delete(id);
-                return true;
-            });
-
-            return new NoContentResult();
+            return Ok();
         }
 
         /// <summary>
@@ -74,7 +51,7 @@ namespace WB1.Controllers
         [Route("user/getall")]
         public IActionResult GetAllUser()
         {
-            return Execute(() => _baseUserService.GetAll());
+            return Ok();
         }
 
         /// <summary>
@@ -85,29 +62,7 @@ namespace WB1.Controllers
         [HttpGet("{id}")]
         public IActionResult Get(int id)
         {
-            if (id == 0)
-                return NotFound();
-
-            return Execute(() => _baseUserService.Get(id));
-        }
-
-        /// <summary>
-        /// Default parameter class
-        /// </summary>
-        /// <param name="func"></param>
-        /// <returns></returns>
-        private IActionResult Execute(Func<object> func)
-        {
-            try
-            {
-                var result = func();
-
-                return Ok(result);
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex);
-            }
+            return Ok();
         }
     }
 }

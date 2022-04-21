@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Blinks.Project.Data\Blinks.Project.Data.csproj" />
     <ProjectReference Include="..\Blinks.Project.Domain\Blinks.Project.Domain.csproj" />
     <ProjectReference Include="..\Blinks.Project.Infra\Blinks.Project.Infra.csproj" />

@@ -66,3 +66,12 @@ G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WB1\bin\Debug\net6.0\Micr
 G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WB1\bin\Debug\net6.0\FluentValidation.dll
 G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WB1\bin\Debug\net6.0\Blinks.Project.Service.dll
 G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WB1\bin\Debug\net6.0\Blinks.Project.Service.pdb
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WB1\bin\Debug\net6.0\AutoMapper.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WB1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WB1\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WB1\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WB1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WB1\bin\Debug\net6.0\Blinks.Project.Application.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WB1\bin\Debug\net6.0\Blinks.Project.Infra.dll
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WB1\bin\Debug\net6.0\Blinks.Project.Application.pdb
+G:\Projects\Repository\NET\UploadApi\DefautArchiteture\WB1\bin\Debug\net6.0\Blinks.Project.Infra.pdb

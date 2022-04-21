@@ -13,7 +13,5 @@ namespace Blinks.Project.Application.Model
         public int Age { get; set; }
         public DateTime CreateTime { get; set; }
         public bool IsActive { get; set; }
-
-        public virtual List<UserProfileModel> UserProfiles { get; set; }
     }
 }

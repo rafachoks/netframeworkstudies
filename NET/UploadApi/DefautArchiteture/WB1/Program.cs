@@ -1,32 +1,37 @@
+using Blinks.Project.Application.AutoMapper;
 using Blinks.Project.Data;
 using Blinks.Project.Data.Context;
 using Blinks.Project.Data.Repository;
 using Blinks.Project.Domain;
 using Blinks.Project.Service;
 using Blinks.Project.Service.Services;
-using Blinks.Project.Service.Validators;
 using Microsoft.EntityFrameworkCore;
-using WB1.Controllers;
 
+#region You don't have mana to change this :) 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
 builder.Services.AddDbContext<SqlContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("connstring")));
-
 builder.Services.AddScoped<SqlContext, SqlContext>();
+
+#endregion
+
+#region AutoMapper Profiles
+builder.Services.AddAutoMapper(typeof(UserProfile));
+#endregion
+
+#region Builder Domains
 builder.Services.AddSingleton<User>();
 builder.Services.AddSingleton<Midia>();
+#endregion
 
+#region Builder Services
 builder.Services.AddTransient<IBaseService<User>, UserService>();
+#endregion
 
-builder.Services.AddTransient<IBaseRepository<User>, UserRepository>();
-
+#region Standard Configuration
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -43,3 +48,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+#endregion

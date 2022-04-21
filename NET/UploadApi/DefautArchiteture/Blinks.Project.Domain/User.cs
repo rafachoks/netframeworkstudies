@@ -14,7 +14,5 @@ namespace Blinks.Project.Domain
         public DateTime CreateTime{ get; set; }
         public DateTime UpdateTime{ get; set; }
         public bool IsActive { get; set; }
-
-        public virtual ICollection<UserProfile> UserProfiles { get; set; }
     }
 }
