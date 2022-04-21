@@ -9,5 +9,11 @@ namespace Blinks.Project.Data
         void Delete (int id);
         TEntity Get (int id);
         IList<TEntity> GetAll ();
+
+        Task AddAsync(TEntity entity);
+        Task UpdateAsync(TEntity entity);
+        Task DeleteAsync(int id);
+        Task<TEntity> GetAsync(int id);
+        Task<IList<TEntity>> GetAllAsync();
     }
 }
