@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace Blinks.Project.Service.Services
 {
+    [Obsolete("Não precisamos mais usar Service para comunicar com o banco, toda validação de campos deve ser feita na camada de Application")]
     public class BaseService<TEntity> : IBaseService<TEntity> where TEntity : BaseEntity
     {
         private readonly IBaseRepository<TEntity> _baseRepository;
