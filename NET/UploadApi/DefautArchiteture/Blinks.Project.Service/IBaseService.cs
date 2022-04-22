@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Blinks.Project.Service
 {
+    [Obsolete("Não precisamos mais usar Service para comunicar com o banco, toda validação de campos deve ser feita na camada de Application")]
     public interface IBaseService<TEntity> where TEntity : BaseEntity
     {
         TEntity Add<TValidator>(TEntity entity) where TValidator : AbstractValidator<TEntity>;

@@ -10,3 +10,15 @@ G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\obj
 G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\obj\Debug\net6.0\refint\Blinks.Project.Domain.dll
 G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\obj\Debug\net6.0\Blinks.Project.Domain.pdb
 G:\Projects\Repository\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\obj\Debug\net6.0\ref\Blinks.Project.Domain.dll
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\bin\Debug\net6.0\Blinks.Project.Domain.deps.json
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\bin\Debug\net6.0\Blinks.Project.Domain.dll
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\bin\Debug\net6.0\Blinks.Project.Domain.pdb
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\obj\Debug\net6.0\Blinks.Project.Domain.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\obj\Debug\net6.0\Blinks.Project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\obj\Debug\net6.0\Blinks.Project.Domain.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\obj\Debug\net6.0\Blinks.Project.Domain.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\obj\Debug\net6.0\Blinks.Project.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\obj\Debug\net6.0\Blinks.Project.Domain.dll
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\obj\Debug\net6.0\refint\Blinks.Project.Domain.dll
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\obj\Debug\net6.0\Blinks.Project.Domain.pdb
+C:\Users\rafae\OneDrive\Familia\Documentos\Projetos\netframeworkstudies\NET\UploadApi\DefautArchiteture\Blinks.Project.Domain\obj\Debug\net6.0\ref\Blinks.Project.Domain.dll

@@ -2,6 +2,10 @@
 
 namespace Blinks.Project.Data
 {
+    /// <summary>
+    /// IBase contract configuration - do not change this
+    /// </summary>
+    /// <typeparam name="TEntity">The type of the entity.</typeparam>
     public interface IBaseRepository <TEntity> where TEntity : BaseEntity
     {
         void Add (TEntity entity);
@@ -9,5 +13,11 @@ namespace Blinks.Project.Data
         void Delete (int id);
         TEntity Get (int id);
         IList<TEntity> GetAll ();
+
+        Task AddAsync(TEntity entity);
+        Task UpdateAsync(TEntity entity);
+        Task DeleteAsync(int id);
+        Task<TEntity> GetAsync(int id);
+        Task<IList<TEntity>> GetAllAsync();
     }
 }

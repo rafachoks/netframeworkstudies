@@ -1,13 +1,9 @@
-﻿using Blinks.Project.Domain.User;
+﻿using Blinks.Project.Domain;
 using FluentValidation;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Blinks.Project.Service.Validators
 {
+    [Obsolete("Não precisamos mais usar Service para comunicar com o banco, toda validação de campos deve ser feita na camada de Application")]
     public class UserValidator : AbstractValidator<User>
     {
         public UserValidator()
@@ -21,6 +17,12 @@ namespace Blinks.Project.Service.Validators
            .NotEmpty().WithMessage("Informe um endereço de e-mail para o usuário, este campo não pode ser vazio")
            .NotNull().WithMessage("Informe um endereço de e-mail para o usuário, este campo não pode ser vazio")
            .WithSeverity(Severity.Error);
+
+            RuleFor(x => x.Age)
+            .NotEmpty()
+            .WithName("Erro Idade")
+            .WithMessage("A partir do dia 15 de Maio este projeto não ira usar este objeto")
+            .WithSeverity(Severity.Info);
         }
     }
 }
