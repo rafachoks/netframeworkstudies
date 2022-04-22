@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Blinks.Project.Domain
 {
+    /// <summary>
+    /// Midia Domain for repository and service
+    /// </summary>
+    /// <seealso cref="Blinks.Project.Domain.BaseEntity" />
     public class Midia : BaseEntity
     {
         public string Name { get; set; } = null!;

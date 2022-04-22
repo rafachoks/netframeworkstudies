@@ -5,6 +5,7 @@ namespace Blinks.Project.Service.Validators
 {
     public class MidiaValidator : AbstractValidator<Midia>
     {
+        [Obsolete("Não precisamos mais usar Service para comunicar com o banco, toda validação de campos deve ser feita na camada de Application")]
         public MidiaValidator()
         {
             RuleFor(x => x.Name)

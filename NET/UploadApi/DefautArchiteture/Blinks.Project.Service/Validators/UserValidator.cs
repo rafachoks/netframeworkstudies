@@ -3,6 +3,7 @@ using FluentValidation;
 
 namespace Blinks.Project.Service.Validators
 {
+    [Obsolete("Não precisamos mais usar Service para comunicar com o banco, toda validação de campos deve ser feita na camada de Application")]
     public class UserValidator : AbstractValidator<User>
     {
         public UserValidator()

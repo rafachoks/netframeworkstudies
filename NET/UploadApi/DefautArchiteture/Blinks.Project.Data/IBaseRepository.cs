@@ -2,6 +2,10 @@
 
 namespace Blinks.Project.Data
 {
+    /// <summary>
+    /// IBase contract configuration - do not change this
+    /// </summary>
+    /// <typeparam name="TEntity">The type of the entity.</typeparam>
     public interface IBaseRepository <TEntity> where TEntity : BaseEntity
     {
         void Add (TEntity entity);

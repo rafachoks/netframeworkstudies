@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Blinks.Project.Application.Model
 {
-    public  class UserModel
+    /// <summary>
+    /// User Model for API
+    /// </summary>
+    public class UserModel
     {
         public string Name { get; set; }
         public string Email { get; set; }

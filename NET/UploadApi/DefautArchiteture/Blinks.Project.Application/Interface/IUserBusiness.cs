@@ -2,6 +2,10 @@
 
 namespace Blinks.Project.Application.Interface
 {
+    /// <summary>
+    /// User business contract
+    /// Every new method must be sign here first
+    /// </summary>
     public interface IUserBusiness
     {
         void CreateUser(UserModel user);

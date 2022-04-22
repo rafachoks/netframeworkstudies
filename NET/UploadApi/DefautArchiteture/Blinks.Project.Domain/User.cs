@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Blinks.Project.Domain
 {
+    /// <summary>
+    /// User domain class for repository and service
+    /// </summary>
+    /// <seealso cref="Blinks.Project.Domain.BaseEntity" />
     public class User : BaseEntity
     {
         public string Name { get; set; } = null!;

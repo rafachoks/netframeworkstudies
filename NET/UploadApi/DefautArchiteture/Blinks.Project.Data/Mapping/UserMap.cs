@@ -4,8 +4,16 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Blinks.Project.Data.Mapping
 {
+    /// <summary>
+    /// User mapping for EF migration
+    /// </summary>
+    /// <seealso cref="Microsoft.EntityFrameworkCore.IEntityTypeConfiguration&lt;Blinks.Project.Domain.User&gt;" />
     internal class UserMap : IEntityTypeConfiguration<User>
     {
+        /// <summary>
+        /// Configures the entity of type <typeparamref name="TEntity" />.
+        /// </summary>
+        /// <param name="builder">The builder to be used to configure the entity type.</param>
         public void Configure(EntityTypeBuilder<User> builder)
         {
             builder.ToTable("TB_USER");
