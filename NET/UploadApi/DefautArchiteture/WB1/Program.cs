@@ -20,6 +20,34 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<SqlContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("connstring")));
 builder.Services.AddScoped<SqlContext, SqlContext>();
 
+builder.Services.AddSwaggerGen(opt =>
+{
+    opt.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
+    {
+        Version = "v1",
+        Title = "DevOps Template Blinks",
+        Description = "Project template for all future projects",
+    });
+
+    #region security for real project
+    //var security = new Dictionary<string, IEnumerable<string>>
+    //{
+    //    {"Bearer", new string[] { }},
+    //};
+
+    //opt.AddSecurityDefinition(
+    //    "Bearer",
+    //    new Microsoft.OpenApi.Models.OpenApiSecurityScheme
+    //    {
+    //        In = Microsoft.OpenApi.Models.ParameterLocation.Header,
+    //        Description = "Copie 'Bearer ' + token'",
+    //        Name = "Authorization",
+    //        Type = Microsoft.OpenApi.Models.SecuritySchemeType.ApiKey
+    //    });
+    #endregion
+
+});
+
 #endregion
 
 #region AutoMapper Profiles

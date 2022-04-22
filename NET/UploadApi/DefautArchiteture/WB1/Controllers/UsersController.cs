@@ -8,6 +8,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WB1.Controllers
 {
+    /// <summary>
+    /// User module
+    /// </summary>
+    /// <seealso cref="Microsoft.AspNetCore.Mvc.ControllerBase" />
     [Route("api/[controller]")]
     [ApiController]
     public class UsersController : ControllerBase
@@ -15,6 +19,10 @@ namespace WB1.Controllers
 
         public readonly IUserBusiness _userBusiness;
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="UsersController"/> class.
+        /// </summary>
+        /// <param name="userBusiness">The user business.</param>
         public UsersController(IUserBusiness userBusiness)
         {
             this._userBusiness = userBusiness;
@@ -23,7 +31,8 @@ namespace WB1.Controllers
         /// <summary>
         /// Create a new user within the application
         /// </summary>
-        /// <param name="user"></param>
+        /// <param name="user">The user.</param>
+        /// <returns></returns>
         [HttpPost]
         public IActionResult Create([FromBody] UserModel user)
         {
@@ -35,7 +44,7 @@ namespace WB1.Controllers
         /// <summary>
         /// Update user information
         /// </summary>
-        /// <param name="user"></param>
+        /// <param name="user">The user.</param>
         /// <returns></returns>
         [HttpPut]
         public IActionResult Update([FromBody] UserModel user)
@@ -48,7 +57,7 @@ namespace WB1.Controllers
         /// <summary>
         /// Dete user by id
         /// </summary>
-        /// <param name="id"></param>
+        /// <param name="id">The identifier.</param>
         /// <returns></returns>
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
@@ -72,7 +81,7 @@ namespace WB1.Controllers
         /// <summary>
         /// Recover an specific user
         /// </summary>
-        /// <param name="id"></param>
+        /// <param name="id">The identifier.</param>
         /// <returns></returns>
         [HttpGet("{id}")]
         public IActionResult Get(int id)
